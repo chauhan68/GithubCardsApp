@@ -1,0 +1,28 @@
+.app-title {
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 75px;
+    height: 75px;
+}
+
+.profile-container {
+    height: 75px;
+    display: flex;
+    margin: 1rem;
+    flex-direction: row;
+}
+
+.profile-info {
+    padding: 10px;
+}
+
+.name, .company-name {
+    color: darkolivegreen;
+}
+
+.name {
+    font-weight: bold;
+}
